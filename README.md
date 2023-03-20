@@ -12,4 +12,4 @@ What growth mindset means to me: Fill in the blank, I'm not gonna tell y'all...
 2. Reminder 2
 3. Reminder 3
 
-Link to my Github Portfolio: https://github.com/kassiebradshaw
+[Link to my Github Portfolio: https://github.com/kassiebradshaw](https://github.com/kassiebradshaw)
